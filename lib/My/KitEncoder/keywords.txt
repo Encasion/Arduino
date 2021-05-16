@@ -1,0 +1,5 @@
+KEncoderKEYWORD1
+
+left	KEYWORD2
+right	KEYWORD2
+tick	KEYWORD2
